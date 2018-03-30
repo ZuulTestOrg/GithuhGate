@@ -1,2 +1,2 @@
 # GithuhGate
-This is a test, please ignore
+This is a test, ignore
