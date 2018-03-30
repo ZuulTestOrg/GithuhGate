@@ -5,3 +5,11 @@
     gate:
       jobs:
         - linters
+    post:
+      debug: True
+      jobs:
+        - noop
+    release:
+      debug: True
+      jobs:
+        - noop
